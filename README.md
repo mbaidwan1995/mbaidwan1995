@@ -18,6 +18,14 @@ I’m based in Surrey, British Columbia, and bring more than six years of combin
 
 The repository READMEs explain implementation details, setup and limitations. Forked examples retain their upstream attribution; they are reference material, not claims of original authorship or production deployment.
 
+## My lab case studies
+
+These write-ups describe my recorded lab work, troubleshooting and the evidence still needed to reproduce the results. Base code and templates retain their upstream credit.
+
+- [EKS provisioning and troubleshooting](https://github.com/mbaidwan1995/eks-cluster/blob/master/CASE_STUDY.md): Terraform inputs, IAM permissions and availability-zone issues.
+- [Jenkins Java pipeline](https://github.com/mbaidwan1995/jenkins-java-project): VM setup, version-mismatch troubleshooting and the build outcome recorded in my notes.
+- [Kubernetes GitOps and monitoring](https://github.com/mbaidwan1995/self-healing-app/blob/main/CASE_STUDY.md): Argo CD source-path correction, Helm, Prometheus and Grafana.
+
 ## Technical focus
 
 - **Support:** incident investigation, case documentation, escalation, root cause analysis and communication with technical and non-technical users.
